@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // Modification effectuées dans Git
-            // Modification effectuées dans Visual
+            // Modification effectuées dans VisualK/
         }
     }
 }
